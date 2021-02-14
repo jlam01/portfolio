@@ -11,3 +11,4 @@ This is a repository containing all the kinds of coding that Jennifer Lam has do
 ## Personal:
 - **Discord bot (Python through Repl.it server, co-creator with [Tung Dao Seckar](https://www.linkedin.com/in/dao-seckar/)):** [Aishi](https://ailurose.github.io/aishi/)
 - **SERS Data Analysis Program:** In progress 
+

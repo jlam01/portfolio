@@ -14,8 +14,7 @@ This is a repository containing all the kinds of coding that Jennifer Lam has do
 
 ## Personal:
 - **Discord bot (Python through Repl.it server, co-creator with [Tung Dao Seckar](https://www.linkedin.com/in/dao-seckar/)):** Aishi
-&ensp
-- Aishi is a convenient discord bot that allows players of popular games such as Granblue Fantasy and League of Legends to have a better multi-player experience, allowing players to get access to game codes as well as player stats within the comfort of discord. As discord is a main form of communication most commonly used amongst gamers, it permits players of these popular games to have access to stats and other information conveniently where they chat amongst their fellow community members.
+-      Aishi is a convenient discord bot that allows players of popular games such as Granblue Fantasy and League of Legends to have a better multi-player experience, allowing players to get access to game codes as well as player stats within the comfort of discord. As discord is a main form of communication most commonly used amongst gamers, it permits players of these popular games to have access to stats and other information conveniently where they chat amongst their fellow community members.
 - **Discord bot (Python through Repl.it server, hosted through Cybrancee):** Kokorose Barista
 - **Discord bot (Python):** PIU bot 
 

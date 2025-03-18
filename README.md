@@ -12,7 +12,9 @@ This is a repository containing all the kinds of coding that Jennifer Lam has do
 
 ### Wustholz Lab 2019-2022:
 - **SERS Data Analysis Program 2019-2020**
+> For many years, spectrometry graphs collected through Surface-Enhanced Raman Spectroscopy (SERS) has always been manually analyzed to determine the matching pigments per historical paint sample. As it is quite a time-consuming task, I took it upon as a challenge to see if it was possible to make it easier to differentiate the different chemicals through the use of machine learning, and additionally make it easier to train new scientists in the lab. A prototype was created with an initial sample set of 200 spectrometry graphs of pigments as well as a set of 1100+ Raman spectra from an open database APIP to test protype model performance. With implementation of quality control stands, data augmentation, and about 850+ sample graphs, an accruacy of 95% was reached to differentiate between various paint pigments.
 - **SMS Machine Learning Program 2021-2022**
+> With the success of the SERS project, the Single Molecule Spectrometry (SMS) Machine Learning Program was founded to perform a similar task to the SERS Data Analysis Program but with different spectrometry graphs. Although I was not in the lab to see the end of the project, I helped build the foundations for the project that is now currently ongoing in the Wustholz Lab thereafter.
 
 ## William and Mary:
 
